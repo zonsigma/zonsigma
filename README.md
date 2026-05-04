@@ -1,16 +1,95 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="78%" valign="top">
 
-<!--
-**zonsigma/zonsigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Contribution Activity
 
-Here are some ideas to get you started:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME\&theme=github-dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 📅 December 2020
+
+zonsigma had no activity during this period.
+
+<br>
+
+<details>
+<summary>Show more activity</summary>
+
+No additional data.
+
+</details>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+</td>
+
+<td width="22%" valign="top" align="right">
+
+### 📆
+
+<sub>
+
+**2026**
+2025
+2024
+2023
+2022
+2021 <span style="color:#2f81f7"><b>2020</b></span>
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+1989
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+1980
+1979
+1978
+1977
+1976
+1975
+1974
+1973
+1972
+1971
+1970
+
+</sub>
+
+</td>
+</tr>
+</table>
